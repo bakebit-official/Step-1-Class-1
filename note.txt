@@ -39,3 +39,31 @@ Linkedin
 
 Git 
 amra git sikhtesi
+
+
+Web Design (Frontend / Client End)
+
+Backend ( Server side )
+
+Web Development ( Frontend + Backend )
+
+[
+
+    Basic html and CSS
+    css media query 
+    flexbox [ 5 class ]
+
+    Basic Javascript and Jquery 
+    Jquery Plugin 
+    Bootstrap [ 5 class ]
+
+    Photoshop Basic 
+    PSD to responsive website [ 2 Project - 5 class ]
+    
+     
+
+]
+
+
+
+
